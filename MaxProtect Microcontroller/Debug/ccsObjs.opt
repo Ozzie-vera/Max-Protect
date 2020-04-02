@@ -1,0 +1,1 @@
+"./Sources/Func.obj" "./Sources/Init.obj" "./Sources/main.obj" "../lnk_msp430g2553.cmd" -llibc.a 
