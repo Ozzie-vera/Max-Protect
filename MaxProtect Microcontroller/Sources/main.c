@@ -11,7 +11,7 @@ int main(void)
 
     while(1){
 
-        RW_adc();
+        RW_adc();// 
 
         x_acc = accel_conv(x);
         y_acc = accel_conv(y);
