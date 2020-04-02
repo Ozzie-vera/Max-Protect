@@ -8,7 +8,7 @@
 int main(void)
 {
     init_hw();
-
+    signed int thresh = 600;
     while(1){
 
         RW_adc();// 

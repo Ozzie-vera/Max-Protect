@@ -17,7 +17,7 @@ void init_hw(void){
     P2OUT = 0;                                                  //all P2.X Reset
     P3DIR |= 0xFF;                                              //all P3.X outputs
     P3OUT = 0;                                                  //all P3.X Reset
-	//adding this to test git
+
     P1SEL |= BIT1 + BIT2;                                       // set UART RX and TX enabled
     P1SEL2 |= BIT1 + BIT2;
 
