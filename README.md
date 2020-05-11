@@ -11,3 +11,6 @@ There are two parts:
 
   -the andriod app:  this contains java applet that enables communcation between phone
                       and device, parses data and displayed likely hood of concussion depending on impact
+
+
+Please read Final_report pdf for more information.
